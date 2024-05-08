@@ -1,0 +1,12 @@
+Leads
+% de reclamações (satisfaçao)
+% de aceitações de ofertas (satisfaçao)
+Total de visitas no web site
+Número de compras realizadas no website
+Total de compras feitas com desconto
+Médias de dia da ultima compra
+Quantidade de cadastros por mês
+Renda por nível educacional
+Quantidade por status de casamento
+Quantidade por faixa etária
+Verificações dos produtos mais procurados
